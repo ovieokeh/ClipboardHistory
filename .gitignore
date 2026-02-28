@@ -1,0 +1,14 @@
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+# App Icons
+/Assets.xcassets/AppIcon.appiconset/*.png
+/Assets.xcassets/AppIcon.appiconset/Contents.json
+
+# Build App Bundle Output
+/ClipboardHistory.app
